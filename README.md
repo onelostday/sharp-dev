@@ -11,13 +11,12 @@
 ## :rocket: Technologies and tools
 
 <p align="center">
-<a href="https://www.jetbrains.com/idea/"><img src="images/vscode.svg" width="50" height="50"  alt="IDEA"/></a>
-<a href="https://www.java.com/"><img src="images/Java.svg" width="50" height="50"  alt="Java"/></a>
-<a href="https://github.com/"><img src="images/Github.svg" width="50" height="50"  alt="Github"/></a>
-<a href="https://junit.org/junit5/"><img src="images/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
-<a href="https://www.jenkins.io/"><img src="images/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<a href="https://www.jenkins.io/"><img src="images/Javascript.svg" width="50" height="50"  alt="Javascript"/></a>
-<a href="https://www.jenkins.io/"><img src="images/MochaAwesome.svg" width="50" height="50"  alt="MochaAwesome"/></a>
+<a href="https://code.visualstudio.com/"><img src="images/vscode.svg" width="50" height="50"  alt="VSCODE"/></a>
+<a href="https://www.java.com/"><img src="images/java.png" width="50" height="50"  alt="Java"/></a>
+<a href="https://github.com/"><img src="images/Github.png" width="50" height="50"  alt="Github"/></a>
+<a href="https://junit.org/junit5/"><img src="images/junit.png" width="50" height="50"  alt="JUnit 5"/></a>
+<a href="https://www.jenkins.io/"><img src="images/jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://www.jenkins.io/"><img src="images/javascript.svg" width="50" height="50"  alt="Javascript"/></a>
 </p>
 
 ## :scroll: Implemented checks
@@ -27,7 +26,7 @@
 - ✓ Check title pricing.
 - ✓ cCheck and validate contact us form.
 
-## <img src="images/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins job
+## Jenkins job
 
 <a><img src="images/jenk_success.png" alt="Jenkins"/></a>
 
@@ -55,7 +54,7 @@ Remote launch:
 npm run %Script%
 ```
 
-## <img src="images/MochaAwesome.svg" width="25" height="25"  alt="Allure"/></a> MochaAwesome <a>report</a>
+## MochaAwesome <a>report</a>
 
 ### Основное окно
 
