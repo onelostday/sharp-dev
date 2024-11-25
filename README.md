@@ -23,8 +23,8 @@
 
 - ✓ Checking the learn more button.
 - ✓ Click on the learn more button and enter Software Development page.
-- ✓ Check title pricing.
-- ✓ Check and validate contact us form.
+- ✓ Checking title pricing.
+- ✓ Checking and validating contact us form.
 
 ## Jenkins job
 
