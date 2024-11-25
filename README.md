@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://code.visualstudio.com/"><img src="images/visual-studio-code.png" width="50" height="50"  alt="VSCODE"/></a>
 <a href="https://www.java.com/"><img src="images/java.png" width="50" height="50"  alt="Java"/></a>
-<a href="https://github.com/"><img src="images/Github.png" width="50" height="50"  alt="Github"/></a>
+<a href="https://github.com/"><img src="images/github.png" width="50" height="50"  alt="Github"/></a>
 <a href="https://junit.org/junit5/"><img src="images/junit.png" width="50" height="50"  alt="JUnit 5"/></a>
 <a href="https://www.jenkins.io/"><img src="images/jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.jenkins.io/"><img src="images/javascript.svg" width="50" height="50"  alt="Javascript"/></a>
